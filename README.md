@@ -16,9 +16,19 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # install
 express.js
-uuid
+uid
 
-* 
-Create server js folder
+
+* server.js
+1. Create server js folder with express to connect with port to view in local host.
+2. require a path and place in boiler plate learned but not remebered haha.
+3. now we request the index page on sever js as well as the notes html following with the / dash.
+4. connecting api notes to db file on the sever js
+5. need to be able to post a new note by looking inside index js and looking at the values to save new note.
+6. push new note into db file
+7. to delete note each one need a uid
+8. npm install uis
+9. make uid into a fuction then add it to the newNote
+10. use filer to read notes to take out note that was clicked
 
 * 

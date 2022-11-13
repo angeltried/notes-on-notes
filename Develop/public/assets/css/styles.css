@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+nav {
+  background: red;
+}
+
 .save-note {
   display: none;
 }
