@@ -1,3 +1,7 @@
+
+<img width="1221" alt="Screen Shot 2022-11-13 at 9 53 59 AM" src="https://user-images.githubusercontent.com/106838166/201531052-31356d22-7739-49da-b76c-b4a90ad4df4c.png">
+
+
 # Note Taker Starter Code
 
 GIVEN a note-taking application
